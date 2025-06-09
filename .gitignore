@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build directories
+target/
+bin/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshot images
+*.png
+*.jpg
+
+# Gitignore file itself
+!.gitignore
